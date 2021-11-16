@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @diegocalb. I'm a biologist and a biology teacher & professor.
-- 👀 I've finished a Data science course for beginners in Python and I’m interested in starting a new job in that field.
+- 👋 Hi, I’m @diegocalb. I'm a biologist, a biology teacher & professor and a data scientist.
+- 👀 I’m interested in starting a new job in the field of data analysis.
 - 🌱 I’’m currently learning machine learning and web scrapping from Social media.
 - 📫 You can contact me on Linkedin
 
