@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @diegocalb. I'm a biologist, a biology teacher & professor and a data scientist.
-- 📫 You can contact me on Linkedin
+-I'am a biologist and data scientist.
+
+This repo contains different data projects that I've analyzed.
 
 <!---
 diegocalb/diegocalb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
