@@ -1,8 +1,12 @@
-This directory contains 3 projects:
+This directory contains 4 projects:
 
+- Docker_ex
 - Blood donor
 - Countries
 - House price
+
+
+**Docker_ex** is an exercise where I use Docker to create a container and, get data from IEX cloud and save the df into a postgres table.
 
 **Blood donor** is another project where blood is analyzed and different molecular markers are detected and measured. In that scenario, a patient could be classified as donor or other categories including Hepatitis C. I used a Logistic Regression model.
 If you download this project, you can run a web app (I used streamlit) writting the following code:
