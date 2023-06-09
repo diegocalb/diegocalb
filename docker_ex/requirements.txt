@@ -1,0 +1,4 @@
+pandas==1.4.0
+pyEX==0.5.0
+requests==2.24.0
+SQLAlchemy==1.4.31
