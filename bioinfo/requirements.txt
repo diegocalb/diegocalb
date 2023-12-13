@@ -1,0 +1,3 @@
+seaborn == 0.11.2
+pysam == 0.22.0
+pycircos == 0.2.0
