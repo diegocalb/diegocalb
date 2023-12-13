@@ -4,6 +4,7 @@ This directory contains 4 projects:
 - Blood donor
 - Countries
 - House price
+- Bioinfo
 
 
 **Docker_ex** is an exercise where I use Docker to create a container and, get data from IEX cloud and save the df into a postgres table.
@@ -19,3 +20,5 @@ If you download this project, you can run a web app (I used streamlit) writting 
 If you download this project, you can run a web app (I used streamlit) writting the following code:
 
 ```streamlit run app.py```
+
+**Bioinfo** is a bioinformatics project. In that project, I have some sequences (like RNAseq) to map them against the sunflower genome.
